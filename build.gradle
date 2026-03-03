@@ -19,13 +19,21 @@ java {
 
 repositories {
     mavenCentral()
-    // Repositorio de ForgeMini
+
     maven {
         url = uri("https://Imcab.github.io/FORGEmini/maven/")
     }
-    // ¡NUEVO! Repositorio oficial de MARS (STZ-Robotics)
+
     maven {
         url = uri("https://STZ-Robotics.github.io/Mars/maven/")
+    }
+
+    maven{
+        url = uri("https://maven.ctr-electronics.com/release/")
+    }
+
+    maven{
+        url = uri("https://3015rangerrobotics.github.io/pathplannerlib/repo")
     }
 }
 
@@ -36,9 +44,12 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.10.1'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
-    // --- EL NÚCLEO DEL ECOSISTEMA STZ ---
     implementation 'com.stzteam.forgemini:ForgeMini:1.1.1'
-    implementation 'com.stzteam.mars:Mars:1.6.0' 
+    implementation 'com.stzteam.mars:Mars:1.6.0'
+
+    implementation 'com.pathplanner.lib:PathplannerLib-java:2026.1.2'
+    implementation 'com.ctre.phoenix6:wpiapi-java:26.1.1'
+
 }
 
 publishing {
