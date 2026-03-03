@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.miequipo.mifeature"},{"l":"com.miequipo.mifeature.generated"},{"l":"com.tu.equipo.generated"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.stzteam.features.posefinder"},{"l":"com.stzteam.features.posefinder.generated"}];updateSearchResults();
