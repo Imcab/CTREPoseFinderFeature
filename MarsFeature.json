@@ -3,7 +3,7 @@
   "name": "PoseFinder CTRE Swerve",
   "version": "1.0.0",
   "groupId": "com.stzteam.features.posefinder",
-  "author": "STZ Robotics",
+  "author": "STZ-Robotics",
   "description": "A PoseFinder using pathplanner compatible with CTRE Swerve",
   "marsCoreRequired": ">=1.6.0",
   "mavenUrls": [
