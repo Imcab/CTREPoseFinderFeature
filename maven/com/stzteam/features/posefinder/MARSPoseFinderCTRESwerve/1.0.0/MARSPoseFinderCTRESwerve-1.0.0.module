@@ -28,10 +28,10 @@
           "name": "MARSPoseFinderCTRESwerve-1.0.0.jar",
           "url": "MARSPoseFinderCTRESwerve-1.0.0.jar",
           "size": 5491,
-          "sha512": "5a4efecea4656df20dce5a91a4f5499204748677680a207847b6c2a6417c4bf8a82e204059315f75df648a1fbe8c7b992896f3ed779772ca6add330f6d7b714b",
-          "sha256": "947a712a324e4c87d25bb5bb25684154476fb9c9ee87dea1277cc58bab226470",
-          "sha1": "fd4796880251844b58637e8a50afe60a7c352b84",
-          "md5": "7419aa6d78d8e74b17ce3e28423d73e3"
+          "sha512": "ac80509fe930b1e801cbd36f537c845cc519fc1220edfd236c438941c714c670e5f59a46d101cf5c68032337776daccd0478e6dc5e47f3f15bc0baebc6a213c0",
+          "sha256": "acb616d07f273963ddbf08577aaff099360b52f2bc05fcbc079d20c383ccfcda",
+          "sha1": "4ef82967e8a361dfa7955fecee52171cc68821c8",
+          "md5": "44320ccd419ca45db1523c7a07f6109d"
         }
       ]
     },
@@ -205,10 +205,10 @@
           "name": "MARSPoseFinderCTRESwerve-1.0.0.jar",
           "url": "MARSPoseFinderCTRESwerve-1.0.0.jar",
           "size": 5491,
-          "sha512": "5a4efecea4656df20dce5a91a4f5499204748677680a207847b6c2a6417c4bf8a82e204059315f75df648a1fbe8c7b992896f3ed779772ca6add330f6d7b714b",
-          "sha256": "947a712a324e4c87d25bb5bb25684154476fb9c9ee87dea1277cc58bab226470",
-          "sha1": "fd4796880251844b58637e8a50afe60a7c352b84",
-          "md5": "7419aa6d78d8e74b17ce3e28423d73e3"
+          "sha512": "ac80509fe930b1e801cbd36f537c845cc519fc1220edfd236c438941c714c670e5f59a46d101cf5c68032337776daccd0478e6dc5e47f3f15bc0baebc6a213c0",
+          "sha256": "acb616d07f273963ddbf08577aaff099360b52f2bc05fcbc079d20c383ccfcda",
+          "sha1": "4ef82967e8a361dfa7955fecee52171cc68821c8",
+          "md5": "44320ccd419ca45db1523c7a07f6109d"
         }
       ]
     }
